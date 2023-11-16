@@ -22,6 +22,7 @@ DefaultTableModel modelo;
 Statement st;
 ResultSet rs;
 int idc;
+String nuevo;
 
 
     /**
